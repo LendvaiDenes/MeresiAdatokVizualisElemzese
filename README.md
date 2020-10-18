@@ -1,1 +1,1 @@
-# MeresiAdatokVizualisElemzese
+# MeresiAdatokVizualisElemzese tárgy házi feladata 
